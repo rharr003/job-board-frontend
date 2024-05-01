@@ -1,0 +1,22 @@
+.nav-main {
+  display: flex;
+  justify-content: space-between;
+  background: rgb(70, 3, 161);
+  background: linear-gradient(
+    90deg,
+    rgba(70, 3, 161, 1) 0%,
+    rgba(96, 4, 233, 1) 46%,
+    rgba(125, 6, 222, 1) 100%
+  );
+}
+
+.nav-item {
+  margin: 10px 20px;
+  display: inline-block;
+  text-decoration: none;
+  color: aliceblue;
+}
+
+a.nav-item:hover {
+  color: rgb(121, 140, 156);
+}

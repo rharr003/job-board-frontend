@@ -1,0 +1,16 @@
+.company-header {
+  display: flex;
+}
+
+.company-title {
+  background-color: rgb(193, 196, 196);
+  height: 100%;
+  padding: 10% 2% 0% 2%;
+}
+
+.company-info {
+  text-align: left;
+  padding: 2%;
+  background-color: rgb(230, 233, 233);
+  flex-grow: 1;
+}

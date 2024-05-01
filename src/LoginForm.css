@@ -1,0 +1,45 @@
+.login-input {
+  margin: 10px;
+  width: 80%;
+  border-radius: 5px;
+  border: none;
+}
+
+.login-form {
+  margin-top: 5%;
+}
+
+.login-card {
+  background-color: rgb(236, 235, 235);
+  margin: 0% 35%;
+  border-radius: 10px;
+  padding: 2.5% 0%;
+}
+
+.login-button {
+  background: rgb(70, 3, 161);
+  background: linear-gradient(
+    90deg,
+    rgba(70, 3, 161, 1) 0%,
+    rgba(96, 4, 233, 1) 46%,
+    rgba(125, 6, 222, 1) 100%
+  );
+  color: rgb(255, 255, 255);
+  border-radius: 10px;
+  padding: 5px;
+  margin: 20px;
+  margin-bottom: 0px;
+  border: none;
+  width: 30%;
+}
+
+.login-button:hover {
+  background: rgb(131, 21, 221);
+  background: linear-gradient(
+    90deg,
+    rgb(129, 22, 216) 0%,
+    rgb(108, 27, 230) 46%,
+    rgb(78, 22, 156) 100%
+  );
+  color: rgb(231, 231, 231);
+}

@@ -1,0 +1,11 @@
+.company-card {
+  background-color: rgb(236, 235, 235);
+  margin: 5%;
+  border-radius: 10px;
+  padding: 2.5% 0%;
+}
+
+.company-heading {
+  text-decoration: none;
+  color: black;
+}
